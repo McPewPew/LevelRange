@@ -8,21 +8,22 @@ Details
 ----------------------
 Title: 	        LevelRange
 Interface:      11200
-Version:        1.2.0
+Version:        1.2.1 - (fishing added by McPewPew)
 
 Author:         Bull3t
-eMail: 	        bull3t@ntlworld.com
+
 URL: 	        http://bull3t.blogspot.com
-Addon Website:  http://www.levelrange.co.nr
 
 Current Features:
- [*] Shows zone level ranges, diplomacy, raids and instances on World Map.
+ [*] Shows zone level ranges, diplomacy, raids, instances and fishing level on World Map.
  [*] Has two slash commands for easily reloading the User Interface.
 
 
 ----------------------
 Change Log
 ----------------------
+1.2.1 - Added the required minimum fishing level and the level required to never miss a catch.
+
 1.2.0 - Update
  [*] Added the showing of raids and raid level ranges.
  [*] Added an options frame, you can now specify what you want on and off, access with "/lr" or "/levelrange".
