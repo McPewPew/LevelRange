@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: LevelRange
+## Version: 1.2.1
+## Author: Bull3t + (fishing by McPewPew)
+## Notes: Shows the zone level range on the World Map.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## OptionalDeps: myAddOns
+## SavedVariables: LevelRangeSettings
+LevelRange.xml
